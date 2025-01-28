@@ -9,7 +9,11 @@
 
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
 
- I am a systems engineer and in the future I will be a systems technologist. I like programming and cybersecurity. I am becoming more and more interested in the world within the network. I plan to become a backend developer and security analyst. For as long as I can remember I have spent a lot of time with computers. They are my world. That is why I have had a great admiration for Russian programmers and hackers since I was little. I believe that there is no one better than these people in cyberspace. I aspire to reach their level one day.
+
+
+I am a systems technician and in the future I will be a systems technologist  I like programming and cybersecurity. I am becoming more interested in the world within the network. I plan to become a backend developer and a security analyst. I have spent a lot of time with computers since I can remember. They are my world. That’s why I’ve had a great admiration for Russian programmers and hackers since I was a child. I believe there is no one better than these people in cyberspace. I aspire to reach their level someday.
+
+
 
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
