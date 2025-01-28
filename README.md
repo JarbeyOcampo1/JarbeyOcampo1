@@ -66,7 +66,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-## Here are some 🦜Parrots😂:
+## Here are some 🦜 🐱 Parrots and Cats 😂:
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -88,4 +88,9 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cult
+    <img src="https://cataas.com/cat/gif" width="30" height="30"/>
+    <img src="https://cataas.com/cat/cute" width="30" height="30"/>
+    <img src="https://cataas.com/cat/motivational" width="30" height="30"/>
+    <img src="https://cataas.com/cat/sleepy" width="30" height="30"/>
+    <img src="https://cataas.com/cat/space" width="30" height="30"/>
+    <img src="https://cataas.com/cat/happy" width="30" height="30"/>
