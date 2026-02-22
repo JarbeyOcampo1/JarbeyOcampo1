@@ -49,7 +49,8 @@ Contact: xxxocampocuervo321xxx@gmail.com
 
 <!-- Top Languages -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarbeyOcampo1&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10"/>
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarbeyOcampo1&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10&include_all_commits=true&count_private=true"/>
 </p>
 
 <!-- Activity Graph -->
