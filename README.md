@@ -37,23 +37,32 @@ Contact: xxxocampocuervo321xxx@gmail.com
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JarbeyOcampo1&label=Intruders%20Tracked&color=00ff00&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=JarbeyOcampo1&label=Intruders%20Tracked&color=00ff00&style=flat"/>
 </p>
 
+<!-- Main Stats + Streak -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JarbeyOcampo1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JarbeyOcampo1&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarbeyOcampo1&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarbeyOcampo1&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10"/>
 </p>
 
+<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JarbeyOcampo1&theme=react-dark&hide_border=true&line=00ff00&point=ffffff"/>
 </p>
 
+<!-- Contribution Calendar -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JarbeyOcampo1&theme=chartreuse_dark"/>
+</p>
+
+<!-- Trophy -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JarbeyOcampo1&theme=matrix&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
